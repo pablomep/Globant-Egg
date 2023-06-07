@@ -1,4 +1,4 @@
-package ej01;
+package Ejercicios;
 // @author Pablo
 import java.util.Scanner;
 public class ej14 {
