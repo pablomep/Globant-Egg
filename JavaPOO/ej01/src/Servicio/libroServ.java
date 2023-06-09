@@ -18,7 +18,7 @@ public class libroServ {
         System.out.print("Captura el número de páginas: ");
         registro.paginas=rd.nextInt();
         //registro(isbn,titulo,autor,pags);
-        return registro;
+        return registro; 
 
     }
 }
